@@ -1,0 +1,72 @@
+BasicInfo:
+  FirstName: Yana
+  LastName: Zheleva
+  Photo: img/yana.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +359 988 852 259
+    - Icon: fas fa-envelope
+      Info: yana.zheleva0@gmail.com
+    - Icon: fas fa-globe
+      Info: https://github.com/bibiyan
+    - Icon: fas fa-map-marker-alt
+      Info: Sofia, Bulgaria
+
+Profile: I am a responsible student with analytical thinking and teamwork skills gained through university studies. I am looking for an inspiring work environment that enables me to develop both as a person and as a programmer. 
+Education:
+  - Course: Computer Science
+    Place: Sofia University, Faculty of Mathematics and Informatics 
+    Date: 2019 - Present
+    
+  - Course: Informatics and Mathematics
+    Place: Secondary School of Mathematics and Natural Science “Geo Milev”, Stara Zagora
+    Date: 2014 - 2019
+
+Projects:
+  - Name : 
+    Idea :
+    Details : I created three C++ course projects during the OOP and Structured Data courses at the university.
+  - Name : <p><a href="https://github.com/bibiyan/Library/">Library</a></p>
+    Idea : A book library management system project.
+    Details : 
+  - Name : <p><a href="https://github.com/bibiyan/Hotel/">Hotel</a></p>
+    Idea : A program that implements an information system for servicing a hotel.
+    Details :  
+  - Name : 
+    Idea :
+  - Name : <p><a href="https://github.com/bibiyan/FiniteAutomata">Finite Automata</a></p>
+    Idea : A program for working with finite state machines.
+    Details : 
+  
+
+
+LANGUAGES:
+  Details:
+  - Bulgarian - Native
+  - English – Basic
+
+
+Skills:
+  - Family: Software
+    Items:
+      - C++
+      - Bash (UNIX Shell)
+  - Family: Personal
+    Items:
+      - Creative
+      - Willing to learn
+      - Teamwork
+      - Logical Thinking
+
+Languages:
+  - Name: Bulgarian
+    Level: Native
+  - Name: English
+    Level: Basic
+
+
+Interests:
+  - Playing the piano,
+  - Extreme sports,
+  - Playing Sport Bridge
+
