@@ -1,0 +1,99 @@
+BasicInfo:
+  FirstName: Yana
+  LastName: Zheleva
+  Photo: img/yana2.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +359 988 852 259
+    - Icon: fas fa-envelope
+      Info: yana.zheleva0@gmail.com
+    - Icon: fas fa-globe
+      Info: https://github.com/bibiyan
+    - Icon: fas fa-map-marker-alt
+      Info: Sofia, Bulgaria
+
+Profile: Dedicated Software Developer with a background in Quality Assurance and 4 years of experience in the software industry. Specialized in sensor driver development, with strong analytical thinking and problem-solving skills developed through both academic studies and professional experience. An effective team player with a strong focus on software quality, reliability, and continuous learning.
+
+Work Experience:
+Experience:
+  - Employer: MM Solutions
+    Place: Sofia, Bulgaria
+    Positions:
+      - Title: Junior Software Engineer
+        Date: Dec 2024 - Jun 2026
+        Details:
+          - Developed user-space sensor drivers for camera subsystems of leading mobile hardware vendors.
+          - Performed sensor validation and debugging, identifying and resolving issues in sensor register settings and driver implementations.
+          - Developed unit tests in C/C++.
+      - Title: Test Engineer
+        Date: May 2022 - Nov 2024
+        Details:
+          - Tested camera hardware modules to verify functionality and identify defects before release.
+          - Performed functional and regression testing of a camera tuning tool application, validating and modifying configuration blocks (exposure time, gain, white balance, dewarp) in JSON and C++ files, including adding new parameters and correcting value ranges.
+          - Wrote and maintained detailed user guides and technical documentation in LaTeX, in collaboration with the development team.
+          - Authored detailed test instructions and validation reports based on test plans and test case specifications.
+          - Tracked, investigated, and resolved defects in collaboration with developers, using Redmine for issue management.
+          - Prepared software release packages, including release notes and deliverables for customers.
+
+Education:
+  - Course: Computer Science
+    Place: Sofia University, Faculty of Mathematics and Informatics 
+    Date: 2019 - Present
+    
+  - Course: Informatics and Mathematics
+    Place: Secondary School of Mathematics and Natural Science “Geo Milev”, Stara Zagora
+    Date: 2014 - 2019
+
+Projects:
+  - Name : 
+    Idea :
+    Details : Created three C++ course projects during the OOP and Structured Data courses at the university.
+  - Name : <p><a href="https://github.com/bibiyan/Library/">Library</a></p>
+    Idea : A book library management system project.
+    Details : 
+  - Name : <p><a href="https://github.com/bibiyan/Hotel/">Hotel</a></p>
+    Idea : A program that implements an information system for servicing a hotel.
+    Details :  
+  - Name : 
+    Idea :
+  - Name : <p><a href="https://github.com/bibiyan/FiniteAutomata">Finite Automata</a></p>
+    Idea : A program for working with finite state machines.
+    Details : 
+  
+
+
+LANGUAGES:
+  Details:
+  - Bulgarian - Native
+  - English – Basic
+
+
+Skills:
+  - Family: Programming languages
+    Items:
+      - C++
+      - Bash (UNIX Shell)
+      - SQL
+  - Family: Experience with
+    Items:
+      - Git, Gerrit, Perforce
+      - Bitbake, Meson, Yocto
+  - Family: Personal
+    Items:
+      - Creative
+      - Willing to learn
+      - Teamwork
+      - Logical Thinking
+
+Languages:
+  - Name: Bulgarian
+    Level: Native
+  - Name: English
+    Level: Intermediate
+
+
+Interests:
+  - Playing the piano,
+  - Extreme sports,
+  - Playing Sport Bridge
+
